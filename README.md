@@ -68,6 +68,9 @@ VIP_WHITELIST=NO
 # Player count threshold below which no AFK kicks occur
 # Must be a positive integer (e.g., 90)
 NO_KICK_BELOW=90
+
+# KICK Message for AFK Players
+KICK_MESSAGE="AFK PLEASE REJOIN"
 ```
 
 - **RCON_SERVER**: Base URL of your CRCON server (without `/api`).
@@ -77,6 +80,7 @@ NO_KICK_BELOW=90
 - **WHITELIST_FLAG**: Profile flag that exempts players (checked in `profile.flags`).
 - **VIP_WHITELIST**: "YES" to exempt VIPs, "NO" otherwise.
 - **NO_KICK_BELOW**: No kicks if player count ≤ this value.
+- **KICK_MESSAGE**: Kick Message
 
 ## Usage
 
