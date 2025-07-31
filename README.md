@@ -1,4 +1,40 @@
-# hll-custom-idle-autokick
+<div align="center">
+
+  <img src="https://github.com/FwSchultz/assets/blob/main/bots/2KU77B0N3S/Logo.png" alt="logo" width="200" height="auto" />
+  <h1>HLL-CUSTOM-IDLE-AUTOKICK      </h1>
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/2KU77B0N3S/hll-geofences/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/2KU77B0N3S/hll-custom-idle-autokick" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/2KU77B0N3S/hll-custom-idle-autokick" alt="last update" />
+  </a>
+  <a href="https://github.com/2KU77B0N3S/hll-geofences/network/members">
+    <img src="https://img.shields.io/github/forks/2KU77B0N3S/hll-custom-idle-autokick" alt="forks" />
+  </a>
+  <a href="https://github.com/2KU77B0N3S/hll-geofences/stargazers">
+    <img src="https://img.shields.io/github/stars/2KU77B0N3S/hll-custom-idle-autokick" alt="stars" />
+  </a>
+  <a href="https://github.com/2KU77B0N3S/hll-geofences/issues/">
+    <img src="https://img.shields.io/github/issues/2KU77B0N3S/hll-custom-idle-autokick" alt="open issues" />
+  </a>
+  <a href="https://github.com/2KU77B0N3S/hll-custom-idle-autokick/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/2KU77B0N3S/hll-geofences.svg" alt="license" />
+  </a>
+</p>
+   
+<h4>
+  <a href="https://github.com/2KU77B0N3S/hll-custom-idle-autokick">Documentation</a>
+  <span> · </span>
+  <a href="https://github.com/2KU77B0N3S/hll-custom-idle-autokick/issues/">Report Bug</a>
+  <span> · </span>
+  <a href="https://github.com/2KU77B0N3S/hll-custom-idle-autokick/issues/">Request Feature</a>
+</h4>
+</div>
+
+<br />
 
 A Node.js script for Hell Let Loose (HLL) servers that automatically kicks idle players using the CRCON API. It monitors players for AFK status based on configurable time thresholds, player count limits, and exemptions for VIPs or players with specific flags. Optionally logs kicks to Discord via webhook.
 
