@@ -69,7 +69,7 @@ A Node.js script for Hell Let Loose (HLL) servers that automatically kicks idle 
 
 3. Copy the example environment file and configure it:
    ```
-   cp .env.example .env
+   cp example.env .env
    ```
    Edit `.env` with your values (see Configuration section below).
 
